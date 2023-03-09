@@ -1,3 +1,3 @@
 # telegramm_bot
 
-Вписываем токен в конфиг и запускаем
+Enter the token in the config and run.
